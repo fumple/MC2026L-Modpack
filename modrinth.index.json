@@ -8,6 +8,36 @@
     "files": [
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 481646,
+            "hashes": {
+                "sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26",
+                "sha512": "59c36a882669399dce2110db42df05e8fe935a2e1194c4bac49abffc3129b2e19373dfe3c4a3d2f8b22f21b1d66ad8cbd653944ce0a71ae05d3d65528d1b7514"
+            },
+            "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/G1s2WpNo/versions/aG5y4JUQ/BetterThirdPerson-neoforge-1.9.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 60941,
+            "hashes": {
+                "sha1": "e91af996b413bb498e276bf410d0deff52a34a74",
+                "sha512": "053acb813940aac69578810558056942966f2f0a24006a3a5de545c82888f8190b3bdc27a2401d0f70200dc4c927c0f84a45bf17821fb94fb9b886d633644619"
+            },
+            "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/HXF82T3G/versions/8vIRXPpR/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
             ],
             "env": {
@@ -263,6 +293,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/5sy6g3kz/versions/2NyTus6V/bettercombat-neoforge-2.3.2%2B1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1041845,
+            "hashes": {
+                "sha1": "f752fbbf81027948ef4ab0fc0066260ccf574179",
+                "sha512": "abc6c5e531492bcc9368b3c79034a19203b9fa871c7ec82380d47c776a087debce6f8e0f7af86993a1a125668a7eb2831af70a097ff2b90e01a0db83eccd111a"
+            },
+            "path": "mods/bettercombat-neoforge-2.3.2+1.21.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/1kcHy4de/versions/SmoP64vt/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.5.jar"
             ],
             "env": {
@@ -320,6 +365,21 @@
                 "sha512": "81fd425d8910da30d9ce130213e518ed3acf6d6b63c98396668126e17f99f4d8e17348de7f6147ed3639ca59a3d3d79e1f0d78937972732fda04b7ac8a886547"
             },
             "path": "mods/citadel-1.21.1-2.7.6.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1163890,
+            "hashes": {
+                "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+                "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
+            },
+            "path": "mods/cloth-config-15.0.140-neoforge.jar"
         },
         {
             "downloads": [
@@ -503,6 +563,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/9mtu0sUO/versions/gRe07TZL/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 10413,
+            "hashes": {
+                "sha1": "3e1a403f9298db23c163dbd85ab68210b4a8c688",
+                "sha512": "aaaf3c1494e240aa61d5191521cf324aab82a3d08c0a5dfa1db516bb26a6b165639b98fc8e9946bd65ad5048ecb6b96601d9febbd1d536f8e1ed5b72c741461f"
+            },
+            "path": "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar"
             ],
             "env": {
@@ -650,6 +725,21 @@
                 "sha512": "30f449477fe1ee9926b8f362065d134b59e0495438f9a4923a6e691938eb9ef5070d1c688c90ec6df4ef77c39db10ef7d2f7e25596167a2b69911aca14499e1b"
             },
             "path": "mods/neoorigins-2.0.37+1.21.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 203149,
+            "hashes": {
+                "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+                "sha512": "fc00450fb6c95ec1779021bdc726122dacb5915c6baddaacc981cd221b01b8db35f2a0dfde5d6fa6766d877266dc82f58854f571ea53cc5c4d468b80e1548a5f"
+            },
+            "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
         },
         {
             "downloads": [
