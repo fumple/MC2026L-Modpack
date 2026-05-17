@@ -7,6 +7,8 @@ jobs:
   pack:
     name: Pack Modpack
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
     - uses: actions/checkout@v6
     - name: Place version id in index.json
@@ -14,4 +16,6 @@ jobs:
     - name: Pack modpack
       run: zip -r 'MC2026L-${{ github.event.release.tag_name }}.mrpack' modrinth.index.json overrides
     - name: Attach modpack to release
+      env:
+        GH_TOKEN: ${{ github.token }}
       run: gh release upload '${{ github.event.release.tag_name }}' 'MC2026L-${{ github.event.release.tag_name }}.mrpack'
