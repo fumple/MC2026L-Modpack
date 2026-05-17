@@ -1,6 +1,6 @@
 {
     "name": "MC2026L",
-    "versionId": "1.0.0",
+    "versionId": "{{versionId}}",
     "dependencies": {
         "minecraft": "1.21.1",
         "neoforge": "21.1.229"

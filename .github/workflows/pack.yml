@@ -1,0 +1,17 @@
+name: Pack Modpack
+on:
+  release: 
+    types: published
+
+jobs:
+  pack:
+    name: Pack Modpack
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+    - name: Place version id in index.json
+      run: sed -i 's/{{versionId}}/${{ github.event.release.tag_name }}/' modrinth.index.json
+    - name: Pack modpack
+      run: zip -r 'MC2026L-${{ github.event.release.tag_name }}.mrpack' modrinth.index.json overrides
+    - name: Attach modpack to release
+      run: gh release upload '${{ github.event.release.tag_name }}' 'MC2026L-${{ github.event.release.tag_name }}.mrpack'
