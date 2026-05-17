@@ -638,6 +638,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/RUtQ9kfe/versions/dEmuf2ua/neoorigins-2.0.37%2B1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1769680,
+            "hashes": {
+                "sha1": "c0d2d712e7a916678e311a69dfeb6e48a7e2dad3",
+                "sha512": "30f449477fe1ee9926b8f362065d134b59e0495438f9a4923a6e691938eb9ef5070d1c688c90ec6df4ef77c39db10ef7d2f7e25596167a2b69911aca14499e1b"
+            },
+            "path": "mods/neoorigins-2.0.37+1.21.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
             ],
             "env": {
