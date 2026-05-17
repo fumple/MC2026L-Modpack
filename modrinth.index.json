@@ -800,6 +800,36 @@
                 "sha512": "30fee010d813ce1cffe67a7b386d0ff6a8f9bd49026a38d0ba948a44a4670c50d434d30cc0797453b51a9c73587a050669a8ab58d97c659397b4696bc2592f2d"
             },
             "path": "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
+        },
+        {
+            "downloads": [
+                "https://github.com/MrCrayfish/GoblinTraders/releases/download/v1.21.1-1.11.2/goblintraders-neoforge-1.21.1-1.11.2-signed.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 462245,
+            "hashes": {
+                "sha1": "4507faefb977321b598daa3fb35d7e1a9a03eb80",
+                "sha512": "020a4c812b83edf4c5bbd6cf1dee61ada945792632571e5814ad31f254e4fe1bd7e20e64c195d2997949711888f18f7ae96f0375a1e19262ec0284015ac27d83"
+            },
+            "path": "mods/goblintraders-neoforge-1.21.1-1.11.2-signed.jar"
+        },
+        {
+            "downloads": [
+                "https://github.com/MrCrayfish/Framework/releases/download/v1.21.1-0.13.18/framework-neoforge-1.21.1-0.13.18-signed.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 462399,
+            "hashes": {
+                "sha1": "f3f974488d103a2b192760d9fe240cd0378583fc",
+                "sha512": "8299bda79c86b4369e5360f85c68e5cfc4bfa972a82c6d8ab98fcb739afb44eece1d229b3258576165ee4f4f326ea6e7606a7b775e7dce32cc4db03c1cf4cb29"
+            },
+            "path": "mods/framework-neoforge-1.21.1-0.13.18-signed.jar"
         }
     ],
     "formatVersion": 1,
