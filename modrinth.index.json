@@ -935,6 +935,21 @@
                 "sha512": "8299bda79c86b4369e5360f85c68e5cfc4bfa972a82c6d8ab98fcb739afb44eece1d229b3258576165ee4f4f326ea6e7606a7b775e7dce32cc4db03c1cf4cb29"
             },
             "path": "mods/framework-neoforge-1.21.1-0.13.18-signed.jar"
+        },
+        {
+            "downloads": [
+                "https://github.com/cpburnz/minecraft-prometheus-exporter/releases/download/1.21.1-neoforge-1.2.1/Prometheus-Exporter-1.21.1-neoforge-1.2.1.jar"
+            ],
+            "env": {
+                "client": "unsupported",
+                "server": "required"
+            },
+            "fileSize": 159065,
+            "hashes": {
+                "sha1": "9942bd40a05c391386c0ff057d78d69a9fc8df15",
+                "sha512": "4fae25e1ad32676e243374a842aba3ae713929b4dd20680859d3032e75fd7cf773726d2f5ae8a5d01c3734178e99e17fea60283aa0ea30cf3097b80297aca953"
+            },
+            "path": "mods/Prometheus-Exporter-1.21.1-neoforge-1.2.1.jar"
         }
     ],
     "formatVersion": 1,
