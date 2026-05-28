@@ -53,6 +53,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/dzb1a5WV/versions/r0TIh2nX/CreateDragonsPlus-1.10.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 759631,
+            "hashes": {
+                "sha1": "0759898cc7ca22ece49e7d7a210db8becfd79cdf",
+                "sha512": "cb8ff236250d346f7c76d534a5cd12f75b081d05b542c54cac49cc430a4539061f05562f10b8ba8503423fb6044666418a355aeae31a4e34615d0da41fa14967"
+            },
+            "path": "mods/CreateDragonsPlus-1.10.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/8DfbfASn/versions/XIRJSFQ0/DungeonsArise-1.21.1-2.1.68-release.jar"
             ],
             "env": {
@@ -455,6 +470,36 @@
                 "sha512": "c7899f8a693cf1b4c17a31faf64e631383f6df331b82b517ed6abe01b0464a9f10b226f0336fa8611c5af514375716c4d009d55c7f92640445c68239b63ebc03"
             },
             "path": "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/JWGBpFUP/versions/zjSKnkVT/create-enchantment-industry-2.3.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 684729,
+            "hashes": {
+                "sha1": "e9a57b322459bda9905e4287d2582ad600909b11",
+                "sha512": "0e83fef0ae333a2bad9cff09cb661d72c0ab48a5b8a97a06c946d54da1eb967b7bd532e780845ff62d19f3bb094daed07f63daec7c1caaa1aeb5050ec4bfcd7c"
+            },
+            "path": "mods/create-enchantment-industry-2.3.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/N9QToVpw/versions/AEMRNsNS/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 235239,
+            "hashes": {
+                "sha1": "ed0ff71df9bfe3b66b97c51a2834031084300a65",
+                "sha512": "2a1d1e6e27aa0744d131ad12dcc4e3bcae2d5d10c620cc566cb0300c63a66bced1c55be0b636998f3773e3a7b384e74ef06395ec7ee6a90649f7702c9a893b0d"
+            },
+            "path": "mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
         },
         {
             "downloads": [
